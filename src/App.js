@@ -1,12 +1,13 @@
 import React from "react";
 import NavBar from "./Components/NavBar";
-
+import SearchComponent from "./Components/SearchComponent";
+import Table from "./Components/Table";
 export default function App() {
   return (
     <div>
       <NavBar />
-      App hello ssasdasd
-      <button className="btn btn-danger"> hello </button>
+      <SearchComponent />
+      <Table />
     </div>
   );
 }

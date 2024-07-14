@@ -1,4 +1,4 @@
-const data = {
+const Data = {
   customers: [
     {
       id: 1,
@@ -79,4 +79,4 @@ const data = {
   ],
 };
 
-export default data;
+export default Data;
