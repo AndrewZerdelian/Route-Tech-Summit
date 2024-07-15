@@ -20,6 +20,14 @@ const Data = {
       id: 5,
       name: "Mohamed Sayed",
     },
+    {
+      id: 6,
+      name: "Fatma Hassan",
+    },
+    {
+      id: 7,
+      name: "Andrew Zerdelian",
+    },
   ],
   transactions: [
     {
@@ -75,6 +83,36 @@ const Data = {
       customer_id: 5,
       date: "2022-01-02",
       amount: 875,
+    },
+    {
+      id: 10,
+      customer_id: 6,
+      date: "2022-01-02",
+      amount: 950,
+    },
+    {
+      id: 11,
+      customer_id: 6,
+      date: "2022-01-02",
+      amount: 1200,
+    },
+    {
+      id: 12,
+      customer_id: 4,
+      date: "2022-01-02",
+      amount: 1100,
+    },
+    {
+      id: 13,
+      customer_id: 7,
+      date: "2022-01-02",
+      amount: 1500,
+    },
+    {
+      id: 14,
+      customer_id: 7,
+      date: "2022-01-02",
+      amount: 1500,
     },
   ],
 };
